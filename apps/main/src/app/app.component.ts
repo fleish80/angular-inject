@@ -10,10 +10,15 @@ export class AppComponent {
 
   title = 'main';
 
-  window = getWindow();
+  window: Window;
 
   constructor() {
     console.log(window);
+  }
+
+  getWindow() {
+    this.window = getWindow();
+    console.log(this.window);
   }
 
 }
