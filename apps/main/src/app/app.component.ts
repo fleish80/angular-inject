@@ -1,5 +1,5 @@
-import {Component, inject} from '@angular/core';
-import {WINDOW} from './tokens/window.token';
+import {Component} from '@angular/core';
+import {getWindow} from './utils/window.util';
 
 @Component({
   selector: 'angular-inject-root',
@@ -10,7 +10,7 @@ export class AppComponent {
 
   title = 'main';
 
-  window = inject(WINDOW);
+  window = getWindow();
 
   constructor() {
     console.log(window);
