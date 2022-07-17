@@ -1,4 +1,4 @@
-import {Component, Inject} from '@angular/core';
+import {Component, inject} from '@angular/core';
 import {WINDOW} from './tokens/window.token';
 
 @Component({
@@ -10,7 +10,9 @@ export class AppComponent {
 
   title = 'main';
 
-  constructor(@Inject(WINDOW) private window: Window) {
+  window = inject(WINDOW);
+
+  constructor() {
     console.log(window);
   }
 
