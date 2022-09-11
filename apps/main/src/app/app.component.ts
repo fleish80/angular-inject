@@ -6,6 +6,7 @@ import {User} from './models/user.model';
 import {CommonModule} from '@angular/common';
 import {ButtonWrapperComponent} from './components/button-wrapper/button-wrapper.component';
 import {HttpClientModule} from '@angular/common/http';
+import {RunInContextComponent} from './components/run-in-context/run-in-context.component';
 
 @Component({
   selector: 'angular-inject-root',
@@ -16,7 +17,8 @@ import {HttpClientModule} from '@angular/common/http';
   imports: [
     CommonModule,
     ButtonWrapperComponent,
-    HttpClientModule
+    HttpClientModule,
+    RunInContextComponent
   ],
   providers: [RandomUserService]
 })
