@@ -1,2 +1,6 @@
 Angular inject
 <pre>{{user$ | async | json}}</pre>
+
+<angular-inject-button-wrapper *ngIf="buttonWrapperDisplay" [buttonDisabled]="buttonWrapperDisabled"></angular-inject-button-wrapper>
+<button (click)="buttonWrapperDisabled = !buttonWrapperDisabled">Toggle disabled</button>
+<button (click)="buttonWrapperDisplay= !buttonWrapperDisplay">Toggle display</button>
