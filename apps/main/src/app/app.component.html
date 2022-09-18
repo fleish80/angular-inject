@@ -1,10 +1,18 @@
 Angular inject
-<pre>{{user$ | async | json}}</pre>
+<div class="json-viewer">
+  <pre>{{user$ | async | json}}</pre>
+</div>
 
-<angular-inject-button-wrapper *ngIf="buttonWrapperDisplay" [buttonDisabled]="buttonWrapperDisabled"></angular-inject-button-wrapper>
+<angular-inject-button-wrapper *ngIf="buttonWrapperDisplay"
+                               [buttonDisabled]="buttonWrapperDisabled"></angular-inject-button-wrapper>
 <button (click)="buttonWrapperDisabled = !buttonWrapperDisabled">Toggle disabled</button>
 <button (click)="buttonWrapperDisplay= !buttonWrapperDisplay">Toggle display</button>
 
 
 <br/>
 <angular-inject-run-in-context></angular-inject-run-in-context>
+
+<br/>
+<angular-inject-static-converter></angular-inject-static-converter>
+
+
