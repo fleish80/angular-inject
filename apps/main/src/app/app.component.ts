@@ -8,6 +8,7 @@ import {ButtonWrapperComponent} from './components/button-wrapper/button-wrapper
 import {HttpClientModule} from '@angular/common/http';
 import {RunInContextComponent} from './components/run-in-context/run-in-context.component';
 import {StaticConverterComponent} from './components/static-converter/static-converter.component';
+import {ReactiveContextComponent} from './components/reactive-context/reactive-context.component';
 
 @Component({
   selector: 'angular-inject-root',
@@ -20,7 +21,8 @@ import {StaticConverterComponent} from './components/static-converter/static-con
     ButtonWrapperComponent,
     HttpClientModule,
     RunInContextComponent,
-    StaticConverterComponent
+    StaticConverterComponent,
+    ReactiveContextComponent
   ],
   providers: [RandomUserService]
 })
