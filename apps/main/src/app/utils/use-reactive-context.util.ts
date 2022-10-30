@@ -11,6 +11,7 @@ export function UseReactiveContext<T>(streams$?: Observable<T>) {
   }
 
   (changeDetector as ViewRef).onDestroy(() => {
+    console.log('unsubscribe');
     unsubscribe$.next();
     unsubscribe$.complete();
   });

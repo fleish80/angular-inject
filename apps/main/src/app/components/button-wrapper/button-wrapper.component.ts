@@ -1,39 +1,27 @@
-import {Component, Input, OnChanges} from '@angular/core';
-import {CommonModule} from '@angular/common';
-import {ButtonBase} from '../../models/button-base.model';
+import {Component} from '@angular/core';
+import {NgIf} from '@angular/common';
+import {ButtonWrapperTestComponent} from './button-wrapper-test.component';
 
 @Component({
   selector: 'angular-inject-button-wrapper',
   standalone: true,
-  imports: [CommonModule],
+  imports: [ButtonWrapperTestComponent, NgIf],
   template: `
-    disabled => {{buttonDisabled}}
-    <br/>
-    <button [class.disabled]="buttonDisabled">Button Wrapper</button>
-    <br/>
-    state => {{preventEvents.getState()}}
+
+    <button (click)="buttonWrapperDisabled = !buttonWrapperDisabled">Toggle disabled</button>
+    <button (click)="buttonWrapperDisplay= !buttonWrapperDisplay">Toggle display</button>
+
+    <angular-inject-button-wrapper-test *ngIf="buttonWrapperDisplay"
+                                        [buttonDisabled]="buttonWrapperDisabled"></angular-inject-button-wrapper-test>
   `,
   styles: [
     `
-      button {
-        background: green;
-        border-radius: 50px;
-        height: 40px;
-        border: 1px solid black;
-      }
-
-      button.disabled {
-        background: gray;
-      }
     `
   ]
 })
-export class ButtonWrapperComponent extends ButtonBase implements OnChanges {
+export class ButtonWrapperComponent {
 
-  @Input() buttonDisabled: boolean;
-
-  ngOnChanges(): void {
-    this.preventEvents.shouldPrevent(this.buttonDisabled);
-  }
+  buttonWrapperDisabled = false;
+  buttonWrapperDisplay = true;
 
 }

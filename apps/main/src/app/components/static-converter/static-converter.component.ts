@@ -2,7 +2,7 @@ import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
 import {UseAngularToStatic} from 'apps/main/src/app/utils/use-angular-to-static.util';
 import {
   StaticConverterTestComponent
-} from 'apps/main/src/app/components/static-converter-test/static-converter-test.component';
+} from './static-converter-test.component';
 
 @Component({
   selector: 'angular-inject-static-converter',
