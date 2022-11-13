@@ -12,7 +12,8 @@ import {AsyncPipe, JsonPipe} from '@angular/common';
     JsonPipe,
     AsyncPipe
   ],
-  styles: []
+  styles: [],
+  providers: [RandomUserService]
 })
 export class BasicInjectComponent {
 

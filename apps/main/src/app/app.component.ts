@@ -1,8 +1,4 @@
-import {Component, OnInit} from '@angular/core';
-import {getWindow} from './utils/window.util';
-import {RandomUserService} from './services/random-user.service';
-import {Observable} from 'rxjs';
-import {User} from './models/user.model';
+import {Component} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {ButtonWrapperComponent} from './components/button-wrapper/button-wrapper.component';
 import {HttpClientModule} from '@angular/common/http';
@@ -20,6 +16,7 @@ import {RouterLinkWithHref, RouterOutlet} from '@angular/router';
       <a routerLink="/static-converter">Static Converter</a>
       <a routerLink="/reactive-context">Reactive Context</a>
       <a routerLink="/button-wrapper">Button Wrapper</a>
+      <a routerLink="/embedded-view-injector">Embedded view injector</a>
     </nav>
   <router-outlet></router-outlet>`,
   styles: [`
@@ -39,26 +36,14 @@ import {RouterLinkWithHref, RouterOutlet} from '@angular/router';
     ReactiveContextComponent,
     RouterOutlet,
     RouterLinkWithHref
-  ],
-  providers: [RandomUserService]
+  ]
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
 
   title = 'main';
 
-  window = getWindow();
 
-  user$: Observable<User>;
 
-  buttonWrapperDisabled = false;
-  buttonWrapperDisplay = true;
 
-  constructor(private randomUserService: RandomUserService) {
-    console.log(window);
-  }
-
-  ngOnInit(): void {
-    this.user$ = this.randomUserService.getApi('https://randomuser.me/api/');
-  }
 
 }
