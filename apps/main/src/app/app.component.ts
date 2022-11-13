@@ -17,6 +17,7 @@ import {RouterLinkWithHref, RouterOutlet} from '@angular/router';
       <a routerLink="/reactive-context">Reactive Context</a>
       <a routerLink="/button-wrapper">Button Wrapper</a>
       <a routerLink="/embedded-view-injector">Embedded view injector</a>
+      <a routerLink="/create-component">Create component</a>
     </nav>
   <router-outlet></router-outlet>`,
   styles: [`

@@ -34,6 +34,10 @@ const routes: Routes = [
     path: 'embedded-view-injector',
     loadComponent: () => import('./app/components/embedded-view-inject/embedded-view-inject.component').then(c => c.EmbeddedViewInjectComponent)
   },
+  {
+    path: 'create-component',
+    loadComponent: () => import('./app/components/create-component/create-component.component').then(c => c.CreateComponentComponent)
+  },
 
 ];
 
