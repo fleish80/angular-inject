@@ -1,8 +1,9 @@
-import {enableProdMode} from '@angular/core';
+import {enableProdMode, ENVIRONMENT_INITIALIZER, inject} from '@angular/core';
 import {environment} from './environments/environment';
 import {bootstrapApplication} from '@angular/platform-browser';
 import {AppComponent} from './app/app.component';
 import {NoPreloading, provideRouter, Routes, withPreloading} from '@angular/router';
+import {SwitcherService} from './app/services/switcher.service';
 
 const routes: Routes = [
   {
@@ -28,7 +29,16 @@ const routes: Routes = [
   },
   {
     path: 'button-wrapper',
-    loadComponent: () => import('./app/components/button-wrapper/button-wrapper.component').then(c => c.ButtonWrapperComponent)
+    loadComponent: () => import('./app/components/button-wrapper/button-wrapper.component').then(c => c.ButtonWrapperComponent),
+    providers: [
+      {
+        provide: ENVIRONMENT_INITIALIZER,
+        multi: true,
+        useValue() {
+          inject(SwitcherService).init();
+        },
+      },
+    ],
   },
   {
     path: 'embedded-view-injector',
