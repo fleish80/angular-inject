@@ -1,4 +1,4 @@
-import { Component, inject } from '@angular/core';
+import { Component, Inject, inject } from '@angular/core';
 import { NAME } from '../../tokens/name.token';
 
 @Component({
@@ -10,6 +10,12 @@ import { NAME } from '../../tokens/name.token';
 })
 export class EmbeddedViewInjectBazComponent {
 
+  // type is set automatically
   name = inject(NAME);
+  
+  // you need to set type by yourself
+  constructor(@Inject(NAME) private nameInContrctor: string) {
+
+  }
 
 }
