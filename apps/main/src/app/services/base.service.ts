@@ -7,10 +7,10 @@ import {Observable} from 'rxjs';
 })
 export class BaseService {
 
-  http = inject(HttpClient);
+  #http = inject(HttpClient);
 
   getApi<T>(url: string): Observable<T> {
-    return this.http.get<T>(url);
+    return this.#http.get<T>(url);
   }
 
 }

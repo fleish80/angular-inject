@@ -3,7 +3,7 @@ import {CommonModule} from '@angular/common';
 import {ButtonBase} from '../../models/button-base.model';
 
 @Component({
-  selector: 'angular-inject-button-wrapper-test',
+  selector: 'df-button-wrapper-test',
   standalone: true,
   imports: [CommonModule],
   template: `

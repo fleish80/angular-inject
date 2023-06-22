@@ -1,10 +1,9 @@
-import {Component, Input} from '@angular/core';
-import {CommonModule} from '@angular/common';
+import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'angular-inject-static-converter-test',
+  selector: 'df-static-converter-test',
   standalone: true,
-  imports: [CommonModule],
+  imports: [],
   template: `
     <p>
       {{name}}

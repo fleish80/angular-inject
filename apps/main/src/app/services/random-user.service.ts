@@ -1,9 +1,7 @@
-import {Injectable} from '@angular/core';
-import {BaseService} from './base.service';
+import { Injectable } from '@angular/core';
+import { BaseService } from './base.service';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
-export class RandomUserService extends BaseService {
-
-}
+export class RandomUserService extends BaseService {}

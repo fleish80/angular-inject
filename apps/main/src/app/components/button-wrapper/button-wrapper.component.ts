@@ -3,7 +3,7 @@ import {NgIf} from '@angular/common';
 import {ButtonWrapperTestComponent} from './button-wrapper-test.component';
 
 @Component({
-  selector: 'angular-inject-button-wrapper',
+  selector: 'df-button-wrapper',
   standalone: true,
   imports: [ButtonWrapperTestComponent, NgIf],
   template: `
@@ -11,8 +11,8 @@ import {ButtonWrapperTestComponent} from './button-wrapper-test.component';
     <button (click)="buttonWrapperDisabled = !buttonWrapperDisabled">Toggle disabled</button>
     <button (click)="buttonWrapperDisplay= !buttonWrapperDisplay">Toggle display</button>
 
-    <angular-inject-button-wrapper-test *ngIf="buttonWrapperDisplay"
-                                        [buttonDisabled]="buttonWrapperDisabled"></angular-inject-button-wrapper-test>
+    <df-button-wrapper-test *ngIf="buttonWrapperDisplay"
+                                        [buttonDisabled]="buttonWrapperDisabled"/>
   `,
   styles: [
     `

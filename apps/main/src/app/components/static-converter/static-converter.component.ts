@@ -5,7 +5,7 @@ import {
 } from './static-converter-test.component';
 
 @Component({
-  selector: 'angular-inject-static-converter',
+  selector: 'df-static-converter',
   standalone: true,
   imports: [],
   template: `
@@ -18,9 +18,6 @@ export class StaticConverterComponent implements OnInit {
 
   useAngularToStatic = UseAngularToStatic(StaticConverterTestComponent);
   innerHTML: string;
-
-  constructor() {
-  }
 
   ngOnInit(): void {
     this.innerHTML = this.useAngularToStatic({name: 'ItonHof'});

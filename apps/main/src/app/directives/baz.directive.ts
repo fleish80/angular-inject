@@ -1,11 +1,11 @@
-import {Directive, inject, Injector, TemplateRef, ViewContainerRef} from '@angular/core';
+import {Directive, inject, Injector, OnInit, TemplateRef, ViewContainerRef} from '@angular/core';
 import {NAME} from '../tokens/name.token';
 
 @Directive({
-  selector: '[angularInjectBaz]',
+  selector: '[dfInjectBaz]',
   standalone: true
 })
-export class BazDirective {
+export class BazDirective implements OnInit {
 
   private vcr = inject(ViewContainerRef);
   private tpl = inject(TemplateRef<any>);

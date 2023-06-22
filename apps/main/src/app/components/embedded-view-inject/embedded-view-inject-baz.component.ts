@@ -1,11 +1,10 @@
-import {Component, inject} from '@angular/core';
-import {CommonModule} from '@angular/common';
-import {NAME} from '../../tokens/name.token';
+import { Component, inject } from '@angular/core';
+import { NAME } from '../../tokens/name.token';
 
 @Component({
-  selector: 'angular-inject-embedded-view-inject-baz',
+  selector: 'df-embedded-view-inject-baz',
   standalone: true,
-  imports: [CommonModule],
+  imports: [],
   template: `{{name}}`,
   styles: [],
 })

@@ -8,7 +8,7 @@ import {ReactiveContextComponent} from './components/reactive-context/reactive-c
 import {RouterLinkWithHref, RouterOutlet} from '@angular/router';
 
 @Component({
-  selector: 'angular-inject-root',
+  selector: 'df-root',
   template: `
     <nav class="nav">
       <a routerLink="/basic-inject">Basic Inject</a>

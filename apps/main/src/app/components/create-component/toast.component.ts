@@ -2,7 +2,7 @@ import {Component, Input} from '@angular/core';
 import {CommonModule} from '@angular/common';
 
 @Component({
-  selector: 'angular-standalone-toast',
+  selector: 'df-standalone-toast',
   standalone: true,
   imports: [CommonModule],
   template: ` <p>{{text}}</p> `,

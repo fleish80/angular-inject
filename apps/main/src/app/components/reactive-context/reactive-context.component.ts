@@ -4,7 +4,7 @@ import {UseReactiveContext} from '../../utils/use-reactive-context.util';
 import {fromEvent} from 'rxjs';
 
 @Component({
-  selector: 'angular-inject-reactive-context',
+  selector: 'df-reactive-context',
   standalone: true,
   imports: [CommonModule],
   changeDetection: ChangeDetectionStrategy.OnPush,

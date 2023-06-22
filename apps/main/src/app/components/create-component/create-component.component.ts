@@ -3,7 +3,7 @@ import {CommonModule} from '@angular/common';
 import {ToastService} from '../../services/toast.service';
 
 @Component({
-  selector: 'angular-inject-create-component',
+  selector: 'df-create-component',
   standalone: true,
   imports: [CommonModule],
   template: `

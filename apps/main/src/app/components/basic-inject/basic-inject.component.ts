@@ -1,22 +1,32 @@
-import {Component, inject} from '@angular/core';
-import {RandomUserService} from '../../services/random-user.service';
-import {AsyncPipe, JsonPipe} from '@angular/common';
+import { AsyncPipe, JsonPipe, NgIf } from '@angular/common';
+import { Component, inject } from '@angular/core';
+import { RandomUserBeforeService } from '../../services/random-user-before.service';
+import { RandomUserService } from '../../services/random-user.service';
 
 @Component({
-  selector: 'angular-inject-basic-inject',
+  selector: 'df-basic-inject',
   standalone: true,
   template: `
-    <pre>{{user$ | async | json}}</pre>
+    <div *ngIf="joke$ | async as joke">
+      {{joke.value}}
+    </div>
+
+    <div *ngIf="jokeBefore$ | async as jokeBefore">
+      {{jokeBefore.value}}
+    </div>
   `,
   imports: [
     JsonPipe,
-    AsyncPipe
+    AsyncPipe,
+    NgIf
   ],
   styles: [],
-  providers: [RandomUserService]
+  providers: [RandomUserService, RandomUserBeforeService]
 })
 export class BasicInjectComponent {
 
-  user$ = inject(RandomUserService).getApi('https://randomuser.me/api/');
+  joke$ = inject(RandomUserService).getApi<{value: string}>('https://api.chucknorris.io/jokes/random');
+
+  jokeBefore$ = inject(RandomUserBeforeService).getApi<{value: string}>('https://api.chucknorris.io/jokes/random');
 
 }
