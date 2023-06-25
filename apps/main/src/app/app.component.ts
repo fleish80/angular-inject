@@ -18,6 +18,8 @@ import {RouterLinkWithHref, RouterOutlet} from '@angular/router';
       <a routerLink="/button-wrapper">Button Wrapper</a>
       <a routerLink="/embedded-view-injector">Embedded view injector</a>
       <a routerLink="/create-component">Create component</a>
+      <a routerLink="/type-inference">Type Inference</a>
+      <a routerLink="/can-match">Can Match</a>
     </nav>
   <router-outlet></router-outlet>`,
   styles: [`

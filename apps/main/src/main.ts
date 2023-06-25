@@ -4,6 +4,8 @@ import {bootstrapApplication} from '@angular/platform-browser';
 import {AppComponent} from './app/app.component';
 import {NoPreloading, provideRouter, Routes, withPreloading} from '@angular/router';
 import {SwitcherService} from './app/services/switcher.service';
+import { NAME } from './app/tokens/name.token';
+import { CanMatchService } from './app/services/can-match.service';
 
 const routes: Routes = [
   {
@@ -47,6 +49,20 @@ const routes: Routes = [
   {
     path: 'create-component',
     loadComponent: () => import('./app/components/create-component/create-component.component').then(c => c.CreateComponentComponent)
+  },
+  {
+    path: 'type-inference',
+    loadComponent: () => import('./app/components/type-inference/type-inference.component').then(c => c.TypeInferenceComponent),
+    providers: [{ provide: NAME, useValue: '🎁' }],
+  },
+  {
+    path: 'can-match',
+    loadComponent: () => import('./app/components/can-match/can-match-one.component').then(c => c.CanMatchOneComponent),
+    canMatch: [() => inject(CanMatchService).match()]
+  },
+  {
+    path: 'can-match',
+    loadComponent: () => import('./app/components/can-match/can-match-two.component').then(c => c.CanMatchTwoComponent),
   },
 
 ];
