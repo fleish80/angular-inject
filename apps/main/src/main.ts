@@ -64,6 +64,11 @@ const routes: Routes = [
     path: 'can-match',
     loadComponent: () => import('./app/components/can-match/can-match-two.component').then(c => c.CanMatchTwoComponent),
   },
+  {
+    path: 'decorators',
+    loadComponent: () => import('./app/components/decorators/decorators.component').then(c => c.DecoratorsComponent),
+    providers: [{ provide: NAME, useValue: '🎁' }],
+  },
 
 ];
 
