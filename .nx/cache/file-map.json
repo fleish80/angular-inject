@@ -1,0 +1,467 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.3",
+  "deps": {
+    "@angular/animations": "17.0.4",
+    "@angular/common": "17.0.4",
+    "@angular/compiler": "17.0.4",
+    "@angular/core": "17.0.4",
+    "@angular/forms": "17.0.4",
+    "@angular/platform-browser": "17.0.4",
+    "@angular/platform-browser-dynamic": "17.0.4",
+    "@angular/router": "17.0.4",
+    "@nrwl/angular": "17.1.3",
+    "rxjs": "7.8.1",
+    "tslib": "^2.6.2",
+    "zone.js": "0.14.2",
+    "@angular-devkit/build-angular": "17.0.3",
+    "@angular-eslint/eslint-plugin": "17.1.0",
+    "@angular-eslint/eslint-plugin-template": "17.1.0",
+    "@angular-eslint/template-parser": "17.1.0",
+    "@angular/cli": "17.0.3",
+    "@angular/compiler-cli": "17.0.4",
+    "@angular/language-service": "17.0.4",
+    "@nrwl/cli": "15.9.3",
+    "@nrwl/cypress": "17.1.3",
+    "@nrwl/eslint-plugin-nx": "17.1.3",
+    "@nrwl/jest": "17.1.3",
+    "@nrwl/linter": "17.1.3",
+    "@nrwl/workspace": "17.1.3",
+    "@types/jest": "29.5.10",
+    "@types/node": "20.10.0",
+    "@typescript-eslint/eslint-plugin": "6.13.1",
+    "@typescript-eslint/parser": "6.13.1",
+    "cypress": "^13.6.0",
+    "eslint": "8.54.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-cypress": "2.15.1",
+    "jest": "29.7.0",
+    "jest-preset-angular": "13.1.4",
+    "nx": "17.1.3",
+    "prettier": "^3.1.0",
+    "ts-jest": "29.1.1",
+    "ts-node": "10.9.1",
+    "typescript": "5.2.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "11532813898455409296"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "6076523549091800167"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16541692331191330580"
+      },
+      {
+        "file": ".nx/cache/d/daemon.log",
+        "hash": "7557894042494474193"
+      },
+      {
+        "file": ".nx/cache/d/server-process.json",
+        "hash": "980947285169768855"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "14739066497476093863"
+      },
+      {
+        "file": ".nx/cache/project-graph.json",
+        "hash": "9764492715720163412"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "1324685984948235314"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "6820402234827505055"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "1031907106376631047"
+      },
+      {
+        "file": "README.md",
+        "hash": "3997781809239199299"
+      },
+      {
+        "file": "apps/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "decorate-angular-cli.js",
+        "hash": "11823390707371404862"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3069074216761126282"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "17666962557300311861"
+      },
+      {
+        "file": "libs/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "migrations.json",
+        "hash": "1376794688008109889"
+      },
+      {
+        "file": "nx.json",
+        "hash": "13446100529585912956"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "8268814281475150643"
+      },
+      {
+        "file": "package.json",
+        "hash": "12967999550523321189"
+      },
+      {
+        "file": "tools/generators/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "tools/tsconfig.tools.json",
+        "hash": "11810713488198132402"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "7788264000166780777"
+      }
+    ],
+    "projectFileMap": {
+      "main": [
+        {
+          "file": "apps/main/.browserslistrc",
+          "hash": "9613746250742796726"
+        },
+        {
+          "file": "apps/main/.eslintrc.json",
+          "hash": "9323908833366891523"
+        },
+        {
+          "file": "apps/main/jest.config.ts",
+          "hash": "3950748071402368252"
+        },
+        {
+          "file": "apps/main/project.json",
+          "hash": "7404427159603957746"
+        },
+        {
+          "file": "apps/main/src/app/app.component.ts",
+          "hash": "17305726543897704710",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/common/http",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/basic-inject/basic-inject.component.ts",
+          "hash": "2541758692933976506",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/button-wrapper/button-wrapper-test.component.ts",
+          "hash": "7969335505903564613",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/button-wrapper/button-wrapper.component.ts",
+          "hash": "2844507915760715729",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/can-match/can-match-one.component.ts",
+          "hash": "17538064369147283771",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/can-match/can-match-two.component.ts",
+          "hash": "4516695063283125705",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/create-component/create-component.component.ts",
+          "hash": "3514298191779382004",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/create-component/toast.component.ts",
+          "hash": "16457793122812330982",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/decorators/decorators.component.ts",
+          "hash": "5005250764478072098",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/embedded-view-inject/embedded-view-inject-baz.component.ts",
+          "hash": "16792475852450281242",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts",
+          "hash": "855731350980293883",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/reactive-context/reactive-context.component.ts",
+          "hash": "6905259662056139207",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/run-in-context/run-in-context.component.ts",
+          "hash": "5344794743366196764",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/static-converter/static-converter-test.component.ts",
+          "hash": "9916400039624686273",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/static-converter/static-converter.component.ts",
+          "hash": "9253628101603206370",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/components/type-inference/type-inference.component.ts",
+          "hash": "12106449516258059358",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/directives/baz.directive.ts",
+          "hash": "3680311512447176825",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/models/button-base.model.ts",
+          "hash": "10938119854464804139"
+        },
+        {
+          "file": "apps/main/src/app/models/user.model.ts",
+          "hash": "10075195660743293701"
+        },
+        {
+          "file": "apps/main/src/app/services/base-before.service.ts",
+          "hash": "683235954620942138",
+          "deps": [
+            "npm:@angular/common/http",
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/base.service.ts",
+          "hash": "3772676398541762254",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common/http",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/can-match.service.ts",
+          "hash": "14909771084793640213",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/random-user-before.service.ts",
+          "hash": "1856246813055467741",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common/http"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/random-user.service.ts",
+          "hash": "7808412241734666344",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/switcher.service.ts",
+          "hash": "2310897495361400469",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/services/toast.service.ts",
+          "hash": "12405729088098237809",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/tokens/name.token.ts",
+          "hash": "2385885295114392986",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/tokens/window.token.ts",
+          "hash": "343927748513004627",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/utils/use-angular-to-static.util.ts",
+          "hash": "7485664656441227012",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/utils/use-prevent-events.util.ts",
+          "hash": "10569366277733710829",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/utils/use-reactive-context.util.ts",
+          "hash": "12210420848495423445",
+          "deps": [
+            "npm:rxjs",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/utils/window.util.ts",
+          "hash": "9040213124417263164",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/main/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/main/src/environments/environment.prod.ts",
+          "hash": "3926102656993804675"
+        },
+        {
+          "file": "apps/main/src/environments/environment.ts",
+          "hash": "14521450534601418167"
+        },
+        {
+          "file": "apps/main/src/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/main/src/index.html",
+          "hash": "4897954309622009074"
+        },
+        {
+          "file": "apps/main/src/main.ts",
+          "hash": "10365104133748845830",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-browser",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/main/src/polyfills.ts",
+          "hash": "7176339394372785858",
+          "deps": [
+            "npm:zone.js"
+          ]
+        },
+        {
+          "file": "apps/main/src/styles.scss",
+          "hash": "2917954890128038984"
+        },
+        {
+          "file": "apps/main/src/test-setup.ts",
+          "hash": "9531801021999427605",
+          "deps": [
+            "npm:jest-preset-angular/setup-jest"
+          ]
+        },
+        {
+          "file": "apps/main/tsconfig.app.json",
+          "hash": "6601754793570984636"
+        },
+        {
+          "file": "apps/main/tsconfig.editor.json",
+          "hash": "11539145186223711902"
+        },
+        {
+          "file": "apps/main/tsconfig.json",
+          "hash": "9740572986890212604"
+        },
+        {
+          "file": "apps/main/tsconfig.spec.json",
+          "hash": "8658740348867974260"
+        }
+      ]
+    }
+  }
+}
