@@ -241,7 +241,7 @@
         },
         {
           "file": "apps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts",
-          "hash": "855731350980293883",
+          "hash": "12826964331444537069",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
@@ -249,7 +249,7 @@
         },
         {
           "file": "apps/main/src/app/components/reactive-context/reactive-context.component.ts",
-          "hash": "6905259662056139207",
+          "hash": "11768906130722839096",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -274,7 +274,7 @@
         },
         {
           "file": "apps/main/src/app/components/static-converter/static-converter.component.ts",
-          "hash": "9253628101603206370",
+          "hash": "9852492020690297684",
           "deps": [
             "npm:@angular/core"
           ]
@@ -295,7 +295,7 @@
         },
         {
           "file": "apps/main/src/app/models/button-base.model.ts",
-          "hash": "10938119854464804139"
+          "hash": "16333256461513260800"
         },
         {
           "file": "apps/main/src/app/models/user.model.ts",
@@ -321,17 +321,18 @@
         },
         {
           "file": "apps/main/src/app/services/can-match.service.ts",
-          "hash": "14909771084793640213",
+          "hash": "14084775854615215992",
           "deps": [
-            "npm:@angular/core"
+            "npm:@angular/core",
+            "npm:rxjs"
           ]
         },
         {
           "file": "apps/main/src/app/services/random-user-before.service.ts",
-          "hash": "1856246813055467741",
+          "hash": "2708544264787859707",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/common/http"
+            "npm:@angular/common"
           ]
         },
         {
@@ -371,21 +372,21 @@
         },
         {
           "file": "apps/main/src/app/utils/use-angular-to-static.util.ts",
-          "hash": "7485664656441227012",
+          "hash": "2788142478463531955",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
           "file": "apps/main/src/app/utils/use-prevent-events.util.ts",
-          "hash": "10569366277733710829",
+          "hash": "13658042224044863698",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
           "file": "apps/main/src/app/utils/use-reactive-context.util.ts",
-          "hash": "12210420848495423445",
+          "hash": "16307419160851305031",
           "deps": [
             "npm:rxjs",
             "npm:@angular/core"

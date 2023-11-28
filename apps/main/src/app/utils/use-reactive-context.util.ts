@@ -1,7 +1,7 @@
-import {Observable, Subject, Subscription, takeUntil} from 'rxjs';
-import {ChangeDetectorRef, inject, ViewRef} from '@angular/core';
+import { Observable, Subject, Subscription, takeUntil } from 'rxjs';
+import { ChangeDetectorRef, inject, ViewRef } from '@angular/core';
 
-export function UseReactiveContext<T>(streams$?: Observable<T>) {
+export function useReactiveContext<T>(streams$?: Observable<T>) {
   const changeDetector = inject(ChangeDetectorRef);
   const unsubscribe$ = new Subject<void>();
   let innerStream$: Observable<T> | undefined;
@@ -18,24 +18,16 @@ export function UseReactiveContext<T>(streams$?: Observable<T>) {
 
   return {
     connect: (streams$: Observable<T>) => streams$.pipe(takeUntil(unsubscribe$)),
-    subscribe(
-      next?: (value: T) => void,
-      error?: (e: any) => void,
-      complete?: () => void
-    ): Subscription | null {
+    subscribe(next?: (value: T) => void, error?: (e: any) => void, complete?: () => void): Subscription | null {
       let subscription: Subscription | null = null;
       if (innerStream$) {
         subscription = innerStream$
           .pipe(takeUntil(unsubscribe$))
-          .subscribe({next, error, complete});
+          .subscribe({ next, error, complete });
       }
       return subscription;
     },
-    subscribeAndRender(
-      next?: (value: T) => void,
-      error?: (e: any) => void,
-      complete?: () => void
-    ): Subscription | null {
+    subscribeAndRender(next?: (value: T) => void, error?: (e: any) => void, complete?: () => void): Subscription | null {
       let subscription: Subscription | null = null;
       if (innerStream$) {
         subscription = innerStream$

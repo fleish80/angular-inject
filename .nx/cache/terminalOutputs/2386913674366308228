@@ -32,3 +32,929 @@
 [37m[39m
 [37m[39m
 [37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                   [2m | [22m[1mNames[22m                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                            [2m | [22mruntime                                           [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                      [2m | [22m[1mNames[22m                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_basic-inject_basic-inject_component_ts.js[39m[37m[2m | [22mapp-components-basic-inject-basic-inject-component[2m | [22m [96m7.38 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:37:41.784Z[39m[37m[22m - Hash: [1m[37m4b6fb9ba5779a9b4[39m[37m[22m - Time: [1m[37m1667[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                       [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                                                                   [2m | [22mmain                                                  [2m | [22m[96m15.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                [2m | [22mruntime                                               [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                          [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_run-in-context_run-in-context_component_ts.js[39m[37m[2m | [22mapp-components-run-in-context-run-in-context-component[2m | [22m [96m4.23 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m14 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:39:07.528Z[39m[37m[22m - Hash: [1m[37mb447b00fd0322a93[39m[37m[22m - Time: [1m[37m1841[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                       [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                [2m | [22mruntime                                               [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                          [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_run-in-context_run-in-context_component_ts.js[39m[37m[2m | [22mapp-components-run-in-context-run-in-context-component[2m | [22m [96m4.23 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:39:13.344Z[39m[37m[22m - Hash: [1m[37m2b84be1b478249b2[39m[37m[22m - Time: [1m[37m747[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:41:50.238Z[39m[37m[22m - Hash: [1m[37mbe15d4db790cc154[39m[37m[22m - Time: [1m[37m1774[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:41:57.481Z[39m[37m[22m - Hash: [1m[37m25d6221ed51b95da[39m[37m[22m - Time: [1m[37m641[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/components/static-converter/static-converter.component.ts[39m[31m[0m:[0m[93m6:30-48[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'UseAngularToStatic' (imported as 'UseAngularToStatic') was not found in 'apps/main/src/app/utils/use-angular-to-static.util' (possible exports: useAngularToStatic)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/static-converter/static-converter.component.ts[0m:[93m2[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"apps/main/src/app/utils/use-angular-to-static.util"' has no exported member named 'UseAngularToStatic'. Did you mean 'useAngularToStatic'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import {UseAngularToStatic} from 'apps/main/src/app/utils/use-angular-to-static.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m5[0m:[93m17[0m[39m[22m
+[1m[31m    [7m5[0m export function useAngularToStatic<C extends NonNullable<unknown>>(component: Type<C>) : (inputs?: ComponentProps) => string {[39m[22m
+[1m[31m    [7m [0m [96m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'useAngularToStatic' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m4.00 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:42:04.770Z[39m[37m[22m - Hash: [1m[37mbec1a5cfbe8e3210[39m[37m[22m - Time: [1m[37m811[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/static-converter/static-converter.component.ts[0m:[93m2[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"apps/main/src/app/utils/use-angular-to-static.util"' has no exported member named 'UseAngularToStatic'. Did you mean 'useAngularToStatic'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import {UseAngularToStatic} from 'apps/main/src/app/utils/use-angular-to-static.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m5[0m:[93m17[0m[39m[22m
+[1m[31m    [7m5[0m export function useAngularToStatic<C extends NonNullable<unknown>>(component: Type<C>) : (inputs?: ComponentProps) => string {[39m[22m
+[1m[31m    [7m [0m [96m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'useAngularToStatic' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/static-converter/static-converter.component.ts[0m:[93m19[0m:[93m24[0m - [91merror[0m[90m TS2663: [0mCannot find name 'useAngularToStatic'. Did you mean the instance member 'this.useAngularToStatic'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m   useAngularToStatic = useAngularToStatic(StaticConverterTestComponent);[39m[22m
+[1m[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:42:09.889Z[39m[37m[22m - Hash: [1m[37m820b2a615833549c[39m[37m[22m - Time: [1m[37m647[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:42:25.015Z[39m[37m[22m - Hash: [1m[37mbaf259a548a1fdd3[39m[37m[22m - Time: [1m[37m662[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:42:30.259Z[39m[37m[22m - Hash: [1m[37md270939940c36ad2[39m[37m[22m - Time: [1m[37m590[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:42:32.227Z[39m[37m[22m - Hash: [1m[37md1faa7d2c2fc7be6[39m[37m[22m - Time: [1m[37m668[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.38 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:44:26.859Z[39m[37m[22m - Hash: [1m[37md982f08b7f0471e4[39m[37m[22m - Time: [1m[37m1109[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m16[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType 'ViewRef' is not assignable to type 'string'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m16[0m     const innerHTML: string = (componentRef.hostView;[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m16[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m16[0m     const innerHTML: string = (componentRef.hostView;[39m[22m
+[1m[31m[7m  [0m [91m                                                    ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m[96m11.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:44:27.786Z[39m[37m[22m - Hash: [1m[37m79a8f25d1167f73c[39m[37m[22m - Time: [1m[37m454[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/utils/use-angular-to-static.util.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\angular-inject\apps\main\src\app\utils\use-angular-to-static.util.ts: Unexpected token (12:49)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 10 |[39m[31m             componentRef[33m.[39m[31mchangeDetectorRef[33m.[39m[31mdetectChanges()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m         }[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 12 |[39m[31m         [36mconst[39m[31m innerHTML [33m=[39m[31m (componentRef[33m.[39m[31mhostView[33m.[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                  [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         componentRef[33m.[39m[31mdestroy()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m         [36mreturn[39m[31m innerHTML[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m16[0m:[93m54[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m16[0m     const innerHTML: string = (componentRef.hostView.;[39m[22m
+[1m[31m[7m  [0m [91m                                                     ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:44:31.220Z[39m[37m[22m - Hash: [1m[37m8246e1f50a422b99[39m[37m[22m - Time: [1m[37m481[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:46:07.745Z[39m[37m[22m - Hash: [1m[37m71c35f4fe1cfae30[39m[37m[22m - Time: [1m[37m461[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:46:17.567Z[39m[37m[22m - Hash: [1m[37m8246e1f50a422b99[39m[37m[22m - Time: [1m[37m454[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m[96m11.14 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:57:58.362Z[39m[37m[22m - Hash: [1m[37m70f021acae093e22[39m[37m[22m - Time: [1m[37m483[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/utils/use-angular-to-static.util.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\angular-inject\apps\main\src\app\utils\use-angular-to-static.util.ts: Unexpected token (10:25)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  8 |[39m[31m                 componentRef[33m.[39m[31msetInput(key[33m,[39m[31m value)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m             })[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 10 |[39m[31m             componentRef[33m.[39m[31m[33m.[39m[31mdetectChanges()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                          [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m         }[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m         [36mconst[39m[31m innerHTML [33m=[39m[31m componentRef[33m.[39m[31mhostView[33m.[39m[31mrootNodes[[35m0[39m[31m][33m.[39m[31minnerHTML[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         componentRef[33m.[39m[31mdestroy()[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m14[0m:[93m20[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m       componentRef..detectChanges();[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.40 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:58:12.066Z[39m[37m[22m - Hash: [1m[37m844ff0e87ad9fe07[39m[37m[22m - Time: [1m[37m513[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m14[0m:[93m29[0m - [91merror[0m[90m TS2339: [0mProperty 'detectChanges' does not exist on type 'ElementRef<any>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m       componentRef.location.detectChanges();[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m[96m11.18 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:58:13.530Z[39m[37m[22m - Hash: [1m[37m3289aad4c162ea36[39m[37m[22m - Time: [1m[37m498[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/utils/use-angular-to-static.util.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\angular-inject\apps\main\src\app\utils\use-angular-to-static.util.ts: Unexpected token (10:34)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  8 |[39m[31m                 componentRef[33m.[39m[31msetInput(key[33m,[39m[31m value)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m             })[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 10 |[39m[31m             componentRef[33m.[39m[31mlocation[33m.[39m[31m[33m.[39m[31mdetectChanges()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                   [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m         }[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m         [36mconst[39m[31m innerHTML [33m=[39m[31m componentRef[33m.[39m[31mhostView[33m.[39m[31mrootNodes[[35m0[39m[31m][33m.[39m[31minnerHTML[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         componentRef[33m.[39m[31mdestroy()[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m14[0m:[93m29[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m       componentRef.location..detectChanges();[39m[22m
+[1m[31m[7m  [0m [91m                            ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:58:15.291Z[39m[37m[22m - Hash: [1m[37m8516c1e19d5e7167[39m[37m[22m - Time: [1m[37m472[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:58:29.208Z[39m[37m[22m - Hash: [1m[37m8246e1f50a422b99[39m[37m[22m - Time: [1m[37m447[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:05.978Z[39m[37m[22m - Hash: [1m[37m891def17c2c48030[39m[37m[22m - Time: [1m[37m535[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m18[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'innerHTML'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m     return innerHTML;[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:08.498Z[39m[37m[22m - Hash: [1m[37mef58c62a1318bc53[39m[37m[22m - Time: [1m[37m470[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m19[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'innerHTML'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m     return innerHTML;[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m[96m11.03 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:13.781Z[39m[37m[22m - Hash: [1m[37m645dc9f77a209a5f[39m[37m[22m - Time: [1m[37m478[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/utils/use-angular-to-static.util.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\angular-inject\apps\main\src\app\utils\use-angular-to-static.util.ts: Missing initializer in const declaration. (13:23)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m         }[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m         [90m// const innerHTML: string = (componentRef.hostView as EmbeddedViewRef<C>).rootNodes[0].innerHTML;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 13 |[39m[31m         [36mconst[39m[31m innerHTML[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                        [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m         componentRef[33m.[39m[31mdestroy()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [36mreturn[39m[31m innerHTML[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     }[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m17[0m:[93m11[0m - [91merror[0m[90m TS1155: [0m'const' declarations must be initialized.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m17[0m     const innerHTML: string[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m19[0m:[93m12[0m - [91merror[0m[90m TS2454: [0mVariable 'innerHTML' is used before being assigned.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m     return innerHTML;[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.46 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:16.444Z[39m[37m[22m - Hash: [1m[37mb3f621b6a5ef49b9[39m[37m[22m - Time: [1m[37m354[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m17[0m:[93m31[0m - [91merror[0m[90m TS2304: [0mCannot find name 'c'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m17[0m     const innerHTML: string = c[39m[22m
+[1m[31m[7m  [0m [91m                              ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:18.329Z[39m[37m[22m - Hash: [1m[37m17ec3f722f14e279[39m[37m[22m - Time: [1m[37m361[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-angular-to-static.util.ts[0m:[93m18[0m:[93m5[0m - [91merror[0m[90m TS2339: [0mProperty 'componentRef' does not exist on type 'ComponentRef<C>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m     componentRef.destroy();[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.50 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:21.980Z[39m[37m[22m - Hash: [1m[37md8d20d0da1708797[39m[37m[22m - Time: [1m[37m483[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.49 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:25.642Z[39m[37m[22m - Hash: [1m[37m7fe2dab0d42ae0eb[39m[37m[22m - Time: [1m[37m378[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:30.413Z[39m[37m[22m - Hash: [1m[37m75d96ab45f2863c5[39m[37m[22m - Time: [1m[37m471[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T20:59:31.143Z[39m[37m[22m - Hash: [1m[37m84466419719a6350[39m[37m[22m - Time: [1m[37m446[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_static-converter_static-converter_component_ts.js[39m[37m[2m | [22mapp-components-static-converter-static-converter-component[2m | [22m [96m5.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:00:05.037Z[39m[37m[22m - Hash: [1m[37m8a7dc5aaf3fce6b6[39m[37m[22m - Time: [1m[37m720[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:00:52.683Z[39m[37m[22m - Hash: [1m[37mcfda21941a94d2f9[39m[37m[22m - Time: [1m[37m2535[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/components/reactive-context/reactive-context.component.ts[39m[31m[0m:[0m[93m7:20-38[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'UseReactiveContext' (imported as 'UseReactiveContext') was not found in '../../utils/use-reactive-context.util' (possible exports: useReactiveContext)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/components/reactive-context/reactive-context.component.ts[39m[31m[0m:[0m[93m8:4-22[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'UseReactiveContext' (imported as 'UseReactiveContext') was not found in '../../utils/use-reactive-context.util' (possible exports: useReactiveContext)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m3[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"../../utils/use-reactive-context.util"' has no exported member named 'UseReactiveContext'. Did you mean 'useReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import {UseReactiveContext} from '../../utils/use-reactive-context.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m4[0m:[93m17[0m[39m[22m
+[1m[31m    [7m4[0m export function useReactiveContext<T>(streams$?: Observable<T>) {[39m[22m
+[1m[31m    [7m [0m [96m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'useReactiveContext' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.38 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:00:56.138Z[39m[37m[22m - Hash: [1m[37ma3caeb6e5bc8322b[39m[37m[22m - Time: [1m[37m690[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/components/reactive-context/reactive-context.component.ts[39m[31m[0m:[0m[93m8:4-22[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'UseReactiveContext' (imported as 'UseReactiveContext') was not found in '../../utils/use-reactive-context.util' (possible exports: useReactiveContext)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m3[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"../../utils/use-reactive-context.util"' has no exported member named 'UseReactiveContext'. Did you mean 'useReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import {UseReactiveContext} from '../../utils/use-reactive-context.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m4[0m:[93m17[0m[39m[22m
+[1m[31m    [7m4[0m export function useReactiveContext<T>(streams$?: Observable<T>) {[39m[22m
+[1m[31m    [7m [0m [96m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'useReactiveContext' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m20[0m:[93m14[0m - [91merror[0m[90m TS2552: [0mCannot find name 'useReactiveContext'. Did you mean 'UseReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   context$ = useReactiveContext();[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m5.95 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:00:59.535Z[39m[37m[22m - Hash: [1m[37ma9e171e4a6046c66[39m[37m[22m - Time: [1m[37m773[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m3[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"../../utils/use-reactive-context.util"' has no exported member named 'UseReactiveContext'. Did you mean 'useReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import {UseReactiveContext} from '../../utils/use-reactive-context.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m4[0m:[93m17[0m[39m[22m
+[1m[31m    [7m4[0m export function useReactiveContext<T>(streams$?: Observable<T>) {[39m[22m
+[1m[31m    [7m [0m [96m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'useReactiveContext' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m20[0m:[93m14[0m - [91merror[0m[90m TS2552: [0mCannot find name 'useReactiveContext'. Did you mean 'UseReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   context$ = useReactiveContext();[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/reactive-context/reactive-context.component.ts[0m:[93m23[0m:[93m5[0m - [91merror[0m[90m TS2552: [0mCannot find name 'useReactiveContext'. Did you mean 'UseReactiveContext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m23[0m     useReactiveContext(fromEvent(document.body, 'click')).subscribe();[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:01:04.707Z[39m[37m[22m - Hash: [1m[37m0e28190d0c1f2904[39m[37m[22m - Time: [1m[37m1498[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:01:05.782Z[39m[37m[22m - Hash: [1m[37mef8227fdf9437de7[39m[37m[22m - Time: [1m[37m783[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:06:12.465Z[39m[37m[22m - Hash: [1m[37m9212a9b7cc581bad[39m[37m[22m - Time: [1m[37m815[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:06:17.635Z[39m[37m[22m - Hash: [1m[37m1356eac4b321499b[39m[37m[22m - Time: [1m[37m850[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:06:20.271Z[39m[37m[22m - Hash: [1m[37m129e69257e58a31b[39m[37m[22m - Time: [1m[37m554[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:06:23.185Z[39m[37m[22m - Hash: [1m[37m513af7dd313ca6a0[39m[37m[22m - Time: [1m[37m611[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:06:24.519Z[39m[37m[22m - Hash: [1m[37m002d3ba020b46eec[39m[37m[22m - Time: [1m[37m476[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:08:39.660Z[39m[37m[22m - Hash: [1m[37m1c4c2f8b6d498daa[39m[37m[22m - Time: [1m[37m1234[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m40[0m:[93m19[0m - [91merror[0m[90m TS2552: [0mCannot find name 'next'. Did you mean 'ext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m40[0m               if (next) {[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m30[0m:[93m24[0m[39m[22m
+[1m[31m    [7m30[0m     subscribeAndRender(ext?: (value: T) => void,[39m[22m
+[1m[31m    [7m  [0m [96m                       ~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ext' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m41[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'next'. Did you mean 'ext'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m41[0m                 next(v);[39m[22m
+[1m[31m[7m  [0m [91m                ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-reactive-context.util.ts[0m:[93m30[0m:[93m24[0m[39m[22m
+[1m[31m    [7m30[0m     subscribeAndRender(ext?: (value: T) => void,[39m[22m
+[1m[31m    [7m  [0m [96m                       ~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ext' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:08:40.313Z[39m[37m[22m - Hash: [1m[37mcb8dcce1dcd681c3[39m[37m[22m - Time: [1m[37m551[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:08:44.830Z[39m[37m[22m - Hash: [1m[37m0edc120a7114e2db[39m[37m[22m - Time: [1m[37m453[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                           [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                    [2m | [22mruntime                                                   [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                              [2m | [22m[1mNames[22m                                                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_reactive-context_reactive-context_component_ts.js[39m[37m[2m | [22mapp-components-reactive-context-reactive-context-component[2m | [22m [96m8.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:08:47.172Z[39m[37m[22m - Hash: [1m[37mc49155bbe74ddbba[39m[37m[22m - Time: [1m[37m547[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                       [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                [2m | [22mruntime                                               [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                          [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_button-wrapper_button-wrapper_component_ts.js[39m[37m[2m | [22mapp-components-button-wrapper-button-wrapper-component[2m | [22m[96m10.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:10:22.558Z[39m[37m[22m - Hash: [1m[37maa3f506de1901cc8[39m[37m[22m - Time: [1m[37m1770[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./apps/main/src/app/models/button-base.model.ts[39m[31m[0m:[0m[93m4:25-41[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'UsePreventEvents' (imported as 'UsePreventEvents') was not found in '../utils/use-prevent-events.util' (possible exports: usePreventEvents)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/models/button-base.model.ts[0m:[93m1[0m:[93m9[0m - [91merror[0m[90m TS2724: [0m'"../utils/use-prevent-events.util"' has no exported member named 'UsePreventEvents'. Did you mean 'usePreventEvents'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import {UsePreventEvents} from '../utils/use-prevent-events.util';[39m[22m
+[1m[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mapps/main/src/app/utils/use-prevent-events.util.ts[0m:[93m3[0m:[93m14[0m[39m[22m
+[1m[31m    [7m3[0m export const usePreventEvents = () => {[39m[22m
+[1m[31m    [7m [0m [96m             ~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'usePreventEvents' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                       [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                [2m | [22mruntime                                               [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                          [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_button-wrapper_button-wrapper_component_ts.js[39m[37m[2m | [22mapp-components-button-wrapper-button-wrapper-component[2m | [22m [96m8.67 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:10:34.357Z[39m[37m[22m - Hash: [1m[37m856f0e471f4fb113[39m[37m[22m - Time: [1m[37m445[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/models/button-base.model.ts[0m:[93m4[0m:[93m29[0m - [91merror[0m[90m TS2552: [0mCannot find name 'UsePreventEvents'. Did you mean 'usePreventEvents'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   protected preventEvents = UsePreventEvents();[39m[22m
+[1m[31m[7m [0m [91m                            ~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                       [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                [2m | [22mruntime                                               [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                          [2m | [22m[1mNames[22m                                                 [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_button-wrapper_button-wrapper_component_ts.js[39m[37m[2m | [22mapp-components-button-wrapper-button-wrapper-component[2m | [22m[96m10.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:10:37.040Z[39m[37m[22m - Hash: [1m[37m6956e4e44ea523f9[39m[37m[22m - Time: [1m[37m559[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                                   [2m | [22m[1mNames[22m                                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                            [2m | [22mruntime                                                           [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                                      [2m | [22m[1mNames[22m                                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_embedded-view-inject_embedded-view-inject_component_ts.js[39m[37m[2m | [22mapp-components-embedded-view-inject-embedded-view-inject-component[2m | [22m [96m6.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:18:30.368Z[39m[37m[22m - Hash: [1m[37mb35be27edb58ce04[39m[37m[22m - Time: [1m[37m1794[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mapps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts[0m:[93m13[0m:[93m83[0m - [91merror[0m[90m NG5002: [0mUnexpected closing tag "ng-container". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m13[0m     <ng-container [ngTemplateOutlet]="tpl" [ngTemplateOutletInjector]="injector"/></ng-container>[39m[22m
+[1m[31m[7m  [0m [91m                                                                                  ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                                                                   [2m | [22m[1mNames[22m                                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                                                                            [2m | [22mruntime                                                           [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                                                                      [2m | [22m[1mNames[22m                                                             [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mapps_main_src_app_components_embedded-view-inject_embedded-view-inject_component_ts.js[39m[37m[2m | [22mapp-components-embedded-view-inject-embedded-view-inject-component[2m | [22m [96m7.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m15 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-28T21:18:33.746Z[39m[37m[22m - Hash: [1m[37m11c88d8d79dd8520[39m[37m[22m - Time: [1m[37m650[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

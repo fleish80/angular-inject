@@ -1,8 +1,8 @@
-import {EmbeddedViewRef, inject, Type, ViewContainerRef} from '@angular/core';
+import { inject, Type, ViewContainerRef } from '@angular/core';
 
 type ComponentProps = {[key: string]: string};
 
-export function UseAngularToStatic<C extends Object>(component: Type<C>) : (inputs?: ComponentProps) => string {
+export function useAngularToStatic<C extends NonNullable<unknown>>(component: Type<C>) : (inputs?: ComponentProps) => string {
   const vcr = inject(ViewContainerRef);
 
   return (inputs?: ComponentProps): string => {
@@ -13,7 +13,8 @@ export function UseAngularToStatic<C extends Object>(component: Type<C>) : (inpu
       });
       componentRef.changeDetectorRef.detectChanges();
     }
-    const innerHTML: string = (componentRef.hostView as EmbeddedViewRef<C>).rootNodes[0].innerHTML;
+    // const innerHTML: string = (componentRef.hostView as EmbeddedViewRef<C>).rootNodes[0].innerHTML;
+    const innerHTML: string = componentRef.location.nativeElement.innerHTML;
     componentRef.destroy();
     return innerHTML;
   }

@@ -1,6 +1,6 @@
 import {ChangeDetectorRef, ElementRef, inject, NgZone, ViewRef} from '@angular/core';
 
-export const UsePreventEvents = () => {
+export const usePreventEvents = () => {
   const changeDetector = inject(ChangeDetectorRef);
   const ngZone = inject(NgZone);
   const el = inject(ElementRef);

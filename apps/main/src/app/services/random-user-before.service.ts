@@ -5,7 +5,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable({
   providedIn: 'root',
 })
-export class RandomUserBeforeService extends BaseBeforeService{
+export class RandomUserBeforeService extends BaseBeforeService {
 
   constructor(protected override http: HttpClient) {
     super(http);

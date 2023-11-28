@@ -124,3 +124,456 @@
 [NX Daemon Server] - 2023-11-28T20:34:34.349Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2023-11-28T20:34:40.696Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2023-11-28T20:34:40.826Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:37:40.145Z - [WATCHER]: apps/main/src/app/services/random-user-before.service.ts was modified
+[NX Daemon Server] - 2023-11-28T20:37:40.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:37:40.276Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:37:40.277Z - [REQUEST]: apps/main/src/app/services/random-user-before.service.ts
+[NX Daemon Server] - 2023-11-28T20:37:40.277Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:37:41.038Z - Time taken for 'hash changed files from watcher' 0.6680999994277954ms
+[NX Daemon Server] - 2023-11-28T20:37:41.298Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:38:42.132Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:38:43.378Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:38:43.711Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:39:05.707Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:39:05.712Z - [WATCHER]: apps/main/src/app/components/run-in-context/run-in-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:39:05.949Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:39:05.949Z - [REQUEST]: apps/main/src/app/components/run-in-context/run-in-context.component.ts
+[NX Daemon Server] - 2023-11-28T20:39:05.949Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:39:06.169Z - Time taken for 'hash changed files from watcher' 0.6176999807357788ms
+[NX Daemon Server] - 2023-11-28T20:39:07.290Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:39:12.615Z - [WATCHER]: apps/main/src/app/components/run-in-context/run-in-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:39:12.616Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:39:13.069Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:39:13.069Z - [REQUEST]: apps/main/src/app/components/run-in-context/run-in-context.component.ts
+[NX Daemon Server] - 2023-11-28T20:39:13.069Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:39:13.192Z - Time taken for 'hash changed files from watcher' 4.1726000010967255ms
+[NX Daemon Server] - 2023-11-28T20:40:13.620Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:40:13.917Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:41:48.483Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:41:48.484Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:41:49.329Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:41:49.329Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:41:49.329Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:41:49.542Z - Time taken for 'hash changed files from watcher' 0.6529000103473663ms
+[NX Daemon Server] - 2023-11-28T20:41:49.991Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:41:56.842Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:41:56.844Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:41:57.218Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:41:58.482Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:41:58.482Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:41:58.482Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:41:58.684Z - Time taken for 'hash changed files from watcher' 0.6446000039577484ms
+[NX Daemon Server] - 2023-11-28T20:42:03.957Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:03.976Z - [WATCHER]: apps/main/src/app/components/static-converter/static-converter.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:42:04.564Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:07.216Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:42:07.216Z - [REQUEST]: apps/main/src/app/components/static-converter/static-converter.component.ts
+[NX Daemon Server] - 2023-11-28T20:42:07.216Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:42:07.305Z - Time taken for 'hash changed files from watcher' 0.7400999963283539ms
+[NX Daemon Server] - 2023-11-28T20:42:09.273Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:09.277Z - [WATCHER]: apps/main/src/app/components/static-converter/static-converter.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:42:09.704Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:15.716Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:42:15.716Z - [REQUEST]: apps/main/src/app/components/static-converter/static-converter.component.ts
+[NX Daemon Server] - 2023-11-28T20:42:15.716Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:42:15.842Z - Time taken for 'hash changed files from watcher' 0.7378999888896942ms
+[NX Daemon Server] - 2023-11-28T20:42:24.385Z - [WATCHER]: apps/main/src/app/components/static-converter/static-converter.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:42:24.385Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:24.823Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:29.685Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:29.688Z - [WATCHER]: apps/main/src/app/components/static-converter/static-converter.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:42:30.084Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:30.806Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:42:30.806Z - [REQUEST]: apps/main/src/app/components/static-converter/static-converter.component.ts
+[NX Daemon Server] - 2023-11-28T20:42:30.806Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:42:31.069Z - Time taken for 'hash changed files from watcher' 0.8610000014305115ms
+[NX Daemon Server] - 2023-11-28T20:42:31.591Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:31.595Z - [WATCHER]: apps/main/src/app/components/static-converter/static-converter.component.ts was modified
+[NX Daemon Server] - 2023-11-28T20:42:31.944Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:42:38.029Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:42:38.029Z - [REQUEST]: apps/main/src/app/components/static-converter/static-converter.component.ts
+[NX Daemon Server] - 2023-11-28T20:42:38.029Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:42:38.134Z - Time taken for 'hash changed files from watcher' 0.5726000070571899ms
+[NX Daemon Server] - 2023-11-28T20:43:32.540Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:43:32.842Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:44:25.766Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:44:25.769Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:44:26.174Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:44:27.370Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:44:27.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:44:30.757Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:44:30.757Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:44:32.211Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:44:32.211Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:44:32.211Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:44:32.288Z - Time taken for 'hash changed files from watcher' 0.7962999939918518ms
+[NX Daemon Server] - 2023-11-28T20:45:31.344Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:46:07.300Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:46:07.303Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:46:07.604Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:46:13.745Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:46:13.745Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:46:13.745Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:46:13.873Z - Time taken for 'hash changed files from watcher' 0.661899983882904ms
+[NX Daemon Server] - 2023-11-28T20:46:17.129Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:46:17.129Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:46:23.574Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:46:23.574Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:46:23.574Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:46:23.672Z - Time taken for 'hash changed files from watcher' 0.7527999877929688ms
+[NX Daemon Server] - 2023-11-28T20:47:17.869Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:47:17.913Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:57:57.898Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:57:57.912Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:58:04.339Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:58:04.339Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:58:04.339Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:58:04.501Z - Time taken for 'hash changed files from watcher' 0.6799000203609467ms
+[NX Daemon Server] - 2023-11-28T20:58:11.584Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:11.587Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:58:11.842Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:13.055Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:13.057Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:58:14.867Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:14.871Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:58:15.087Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:18.018Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:58:18.018Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:58:18.018Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:58:18.142Z - Time taken for 'hash changed files from watcher' 0.5076000094413757ms
+[NX Daemon Server] - 2023-11-28T20:58:28.779Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:58:28.779Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:58:35.212Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:58:35.212Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:58:35.212Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:58:35.309Z - Time taken for 'hash changed files from watcher' 0.5931000113487244ms
+[NX Daemon Server] - 2023-11-28T20:59:05.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:05.461Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:05.852Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:08.044Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:08.046Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:08.363Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:11.894Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:59:11.894Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:59:11.894Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:59:12.083Z - Time taken for 'hash changed files from watcher' 0.6683000028133392ms
+[NX Daemon Server] - 2023-11-28T20:59:13.401Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:13.402Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:16.108Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:16.109Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:16.329Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:17.986Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:17.987Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:18.212Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:19.821Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:59:19.821Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:59:19.821Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:59:19.939Z - Time taken for 'hash changed files from watcher' 0.565200001001358ms
+[NX Daemon Server] - 2023-11-28T20:59:21.541Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:21.550Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:21.789Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:25.281Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:25.281Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:25.502Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:27.977Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:59:27.977Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:59:27.977Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:59:28.076Z - Time taken for 'hash changed files from watcher' 0.6254999935626984ms
+[NX Daemon Server] - 2023-11-28T20:59:29.960Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:29.960Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:30.068Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:30.072Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T20:59:30.212Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T20:59:36.389Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T20:59:36.389Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T20:59:36.389Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T20:59:36.480Z - Time taken for 'hash changed files from watcher' 0.6254999935626984ms
+[NX Daemon Server] - 2023-11-28T21:00:04.333Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:04.336Z - [WATCHER]: apps/main/src/app/utils/use-angular-to-static.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:00:04.683Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:10.774Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:00:10.774Z - [REQUEST]: apps/main/src/app/utils/use-angular-to-static.util.ts
+[NX Daemon Server] - 2023-11-28T21:00:10.774Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:00:10.861Z - Time taken for 'hash changed files from watcher' 0.6096999943256378ms
+[NX Daemon Server] - 2023-11-28T21:00:50.169Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:00:50.169Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:52.365Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:54.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:54.463Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:54.650Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:55.483Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:55.485Z - [WATCHER]: apps/main/src/app/components/reactive-context/reactive-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:00:56.026Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:56.604Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:00:56.604Z - [REQUEST]: apps/main/src/app/utils/use-reactive-context.util.ts,apps/main/src/app/components/reactive-context/reactive-context.component.ts
+[NX Daemon Server] - 2023-11-28T21:00:56.604Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:00:56.729Z - Time taken for 'hash changed files from watcher' 0.8607000112533569ms
+[NX Daemon Server] - 2023-11-28T21:00:58.782Z - [WATCHER]: apps/main/src/app/components/reactive-context/reactive-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:00:58.783Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:00:59.399Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:01:03.251Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:01:03.254Z - [WATCHER]: apps/main/src/app/components/reactive-context/reactive-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:01:04.405Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:01:05.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:01:05.019Z - [WATCHER]: apps/main/src/app/components/reactive-context/reactive-context.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:01:05.209Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:01:05.209Z - [REQUEST]: apps/main/src/app/components/reactive-context/reactive-context.component.ts
+[NX Daemon Server] - 2023-11-28T21:01:05.209Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:01:05.336Z - Time taken for 'hash changed files from watcher' 0.6317999958992004ms
+[NX Daemon Server] - 2023-11-28T21:01:05.599Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:02:05.972Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:02:06.759Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:02:06.816Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:02:07.071Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:11.668Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:06:11.669Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:12.113Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:16.802Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:06:16.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:17.192Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:18.106Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:06:18.107Z - [REQUEST]: apps/main/src/app/utils/use-reactive-context.util.ts
+[NX Daemon Server] - 2023-11-28T21:06:18.107Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:06:18.220Z - Time taken for 'hash changed files from watcher' 0.6477999985218048ms
+[NX Daemon Server] - 2023-11-28T21:06:19.735Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:06:19.736Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:20.044Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:22.616Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:06:22.616Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:22.998Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:24.066Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:06:24.066Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:24.343Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:06:26.171Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:06:26.171Z - [REQUEST]: apps/main/src/app/utils/use-reactive-context.util.ts
+[NX Daemon Server] - 2023-11-28T21:06:26.171Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:06:26.297Z - Time taken for 'hash changed files from watcher' 0.5791999995708466ms
+[NX Daemon Server] - 2023-11-28T21:07:24.641Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:38.475Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:08:38.476Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:39.307Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:39.497Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:08:39.497Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:44.410Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:44.412Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:08:44.694Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:44.911Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:08:44.911Z - [REQUEST]: apps/main/src/app/utils/use-reactive-context.util.ts
+[NX Daemon Server] - 2023-11-28T21:08:44.911Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:08:45.149Z - Time taken for 'hash changed files from watcher' 0.6238999962806702ms
+[NX Daemon Server] - 2023-11-28T21:08:46.656Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:46.659Z - [WATCHER]: apps/main/src/app/utils/use-reactive-context.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:08:47.004Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:08:53.123Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:08:53.124Z - [REQUEST]: apps/main/src/app/utils/use-reactive-context.util.ts
+[NX Daemon Server] - 2023-11-28T21:08:53.124Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:08:53.211Z - Time taken for 'hash changed files from watcher' 0.6439000070095062ms
+[NX Daemon Server] - 2023-11-28T21:09:47.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:20.825Z - [WATCHER]: apps/main/src/app/utils/use-prevent-events.util.ts was modified
+[NX Daemon Server] - 2023-11-28T21:10:20.826Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:22.394Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:27.256Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:10:27.256Z - [REQUEST]: apps/main/src/app/utils/use-prevent-events.util.ts
+[NX Daemon Server] - 2023-11-28T21:10:27.256Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:10:27.380Z - Time taken for 'hash changed files from watcher' 0.7434000074863434ms
+[NX Daemon Server] - 2023-11-28T21:10:33.932Z - [WATCHER]: apps/main/src/app/models/button-base.model.ts was modified
+[NX Daemon Server] - 2023-11-28T21:10:33.932Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:34.248Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:36.503Z - [WATCHER]: apps/main/src/app/models/button-base.model.ts was modified
+[NX Daemon Server] - 2023-11-28T21:10:36.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:36.817Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:10:40.362Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:10:40.362Z - [REQUEST]: apps/main/src/app/models/button-base.model.ts
+[NX Daemon Server] - 2023-11-28T21:10:40.362Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:10:40.458Z - Time taken for 'hash changed files from watcher' 0.5056000053882599ms
+[NX Daemon Server] - 2023-11-28T21:11:37.344Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:11:37.398Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:11:37.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:11:37.732Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:18:28.585Z - [WATCHER]: apps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:18:28.587Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:18:30.095Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:18:33.113Z - [WATCHER]: apps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts was modified
+[NX Daemon Server] - 2023-11-28T21:18:33.115Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:18:33.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:18:35.247Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-28T21:18:35.247Z - [REQUEST]: apps/main/src/app/components/embedded-view-inject/embedded-view-inject.component.ts
+[NX Daemon Server] - 2023-11-28T21:18:35.247Z - [REQUEST]: 
+
+ >  NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+   Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+   For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2023-11-28T21:18:35.719Z - Time taken for 'hash changed files from watcher' 1.0060999989509583ms
+[NX Daemon Server] - 2023-11-28T21:19:33.987Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:19:34.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-28T21:19:34.349Z - [WATCHER]: Processing file changes in outputs

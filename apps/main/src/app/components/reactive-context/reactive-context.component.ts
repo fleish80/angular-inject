@@ -1,7 +1,7 @@
-import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
-import {CommonModule} from '@angular/common';
-import {UseReactiveContext} from '../../utils/use-reactive-context.util';
-import {fromEvent} from 'rxjs';
+import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { useReactiveContext } from '../../utils/use-reactive-context.util';
+import { fromEvent } from 'rxjs';
 
 @Component({
   selector: 'df-reactive-context',
@@ -17,10 +17,10 @@ import {fromEvent} from 'rxjs';
 })
 export class ReactiveContextComponent implements OnInit {
 
-  context$ = UseReactiveContext();
+  context$ = useReactiveContext();
 
   constructor() {
-    UseReactiveContext(fromEvent(document.body, 'click')).subscribe();
+    useReactiveContext(fromEvent(document.body, 'click')).subscribe();
   }
 
   ngOnInit(): void {

@@ -10,7 +10,7 @@ import { NgTemplateOutlet } from '@angular/common';
   imports: [BazDirective, EmbeddedViewInjectBazComponent, NgTemplateOutlet],
   template: `
     <!--    Before-->
-    <ng-container [ngTemplateOutlet]="tpl" [ngTemplateOutletInjector]="injector"></ng-container>
+    <ng-container [ngTemplateOutlet]="tpl" [ngTemplateOutletInjector]="injector"/>
     <ng-template #tpl>
       <df-embedded-view-inject-baz/>
     </ng-template>
